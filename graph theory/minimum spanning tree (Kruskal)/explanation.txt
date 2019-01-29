@@ -1,0 +1,2 @@
+question can be seen in the link;
+https://www.hackerrank.com/challenges/kruskalmstrsub/problem

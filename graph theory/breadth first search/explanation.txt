@@ -1,0 +1,2 @@
+question can be seen in Hackerrank from the link;
+https://www.hackerrank.com/challenges/bfsshortreach/problem

@@ -1,0 +1,2 @@
+problem can be seen in the link;
+https://www.hackerrank.com/challenges/maxsubarray/problem
